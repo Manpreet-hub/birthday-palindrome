@@ -1,0 +1,36 @@
+body{
+  background-color:#EFB7B7;
+}
+.container{
+  margin-top: 5rem;
+  text-align: center;
+  padding: 4rem;
+  font-size: 2rem;
+  margin: auto;
+  width: 40vw;
+  height: 50%;
+  background-color: #BD4B4B;
+  border-radius: 1.5rem;
+  border: 0.5rem,solid,black;
+}
+
+#show-btn , #bday-input{
+padding: 0.8rem;
+border-radius: 0.8rem;
+font-size: 1.5rem;
+
+}
+.footer{
+    text-align: center;
+     padding: 2rem;
+}
+.footer-img{
+    width: 80px;
+    height: 60px;
+   padding: 0.5rem;
+
+}
+.footer-title{
+    text-align: center;
+    padding: 1.4rem;
+}
